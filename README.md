@@ -1,2 +1,2 @@
 # Rent-Estimator
-Making a Rest estimator or the Ontario region
+Making a Rent estimator or the Ontario region
